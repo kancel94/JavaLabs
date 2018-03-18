@@ -1,0 +1,20 @@
+Overall Average Income: $27936.07
+
+Maximum Age Per Location...
+Inner City     Rural  Suburban      Town
+        67        67        67        67
+
+Minimum Age Per Location...
+Inner City     Rural  Suburban      Town
+18                18        18        19
+
+Number of females with mortgages: 100
+
+Number of males with both a car AND 1 child per location... 
+Inner City        15
+Rural              9
+Suburban           3
+Town               7
+
+Cur dt=2018/03/17 19:12:40
+Programmed by Timothy Kang
